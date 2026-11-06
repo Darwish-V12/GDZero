@@ -1,0 +1,22 @@
+# --- ESP-IDF build artifacts ---
+build/
+managed_components/
+sdkconfig.old
+flash_args
+flasher_args.json
+project_description.json
+
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Local experiments (keep repo clean) ---
+*.log
+*.bak
