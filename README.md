@@ -8,7 +8,7 @@ By **Team Gradient_Zero** — built on top of the original [DrWalls](https://git
 
 ## ⚡ Install in one click — no tools needed
 
-### [👉 INSTALL GDZERO ON YOUR ESP32](https://drmakerr.github.io/GDZero/)
+### [👉 INSTALL GDZERO ON YOUR ESP32](https://darwish-v12.github.io/GDZero/)
 
 Connect the ESP32 with a USB **data** cable and click **Install**. The firmware
 flashes straight from the browser — no ESP-IDF, no VS Code, no Python, no compilation.
