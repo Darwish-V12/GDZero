@@ -4,7 +4,6 @@
 
 By **Team Gradient_Zero** — built on top of the original [DrWalls](https://github.com/drmakerr/DrWalls) project by Dr. Maker.
 
-[![Watch the original DrWalls experiment](images/video-thumbnail.jpg)](https://youtu.be/OmvilFPKQLU)
 
 ---
 
