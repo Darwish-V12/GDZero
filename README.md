@@ -4,12 +4,13 @@
 
 By **Team Gradient_Zero** — built on top of the original [DrWalls](https://github.com/drmakerr/DrWalls) project by Dr. Maker.
 
+[![Watch the original DrWalls experiment](images/video-thumbnail.jpg)](https://youtu.be/OmvilFPKQLU)
 
 ---
 
 ## ⚡ Install in one click — no tools needed
 
-### [👉 INSTALL GDZERO ON YOUR ESP32](https://darwish-v12.github.io/GDZero/)
+### [👉 INSTALL GDZERO ON YOUR ESP32](https://drmakerr.github.io/GDZero/)
 
 Connect the ESP32 with a USB **data** cable and click **Install**. The firmware
 flashes straight from the browser — no ESP-IDF, no VS Code, no Python, no compilation.
@@ -112,6 +113,18 @@ auto demo mode and fullscreen presentation mode, embedded directly in the firmwa
 Created by **Dr. Maker** — **Team Gradient_Zero**.
 
 Made with Love <3 for all makers.
+
+---
+
+## 📂 Repository guide
+
+| File | What it is |
+|---|---|
+| **[SETUP_GUIDE.md](SETUP_GUIDE.md)** | الدليل الكامل بالعربي — browser install + build from source + troubleshooting |
+| **[GDZero_Presentation.pdf](GDZero_Presentation.pdf)** | Project presentation deck — Team Gradient_Zero |
+| `index.html` + `manifest.json` + `firmware/` | The one-click web installer (ESP Web Tools) |
+
+> 🎯 Practicing the demo? Open `main/drwalls_dashboard.html` directly in a browser — it runs in **DEMO mode** with a simulated target.
 
 ---
 
